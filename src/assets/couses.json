@@ -1,0 +1,4 @@
+[
+  { "_id": 1, "nome": "Angular", "categoria": "Js" },
+  { "_id": 2, "nome": "Laravel", "categoria": "PHP" }
+]
